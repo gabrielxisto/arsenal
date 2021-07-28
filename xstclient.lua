@@ -1,7 +1,7 @@
 local Tunnel = module("vrp","lib/Tunnel")
 local Proxy = module("vrp","lib/Proxy")
 vRP = Proxy.getInterface("vRP")
-vRPex = Tunnel.getInterface("vrp_arsenal")
+vRPex = Tunnel.getInterface("xst_arsenal")
 
 
 local marcacoes = {
