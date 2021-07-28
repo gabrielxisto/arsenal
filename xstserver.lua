@@ -4,7 +4,7 @@ vRP = Proxy.getInterface("vRP")
 vRPclient = Tunnel.getInterface("vRP")
 
 vRPex = {}
-Tunnel.bindInterface("vrp_arsenal",vRPex)
+Tunnel.bindInterface("xst_arsenal",vRPex)
 
 function vRPex.checkPermission(permission)
 	local src = source
