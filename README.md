@@ -1,8 +1,7 @@
 # Xisto Arsenal
-> Additional information or tagline
+> Pequeno arsenal por comando para FiveM
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+Este arsenal voltado para o tema de RolePlay visa a otimização a e praticidade pro player utilizando apenas Commands e nenhuma Thread.
 
 ## Installing / Getting started
 
